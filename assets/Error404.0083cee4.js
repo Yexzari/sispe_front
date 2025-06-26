@@ -1,1 +1,0 @@
-import{n as r}from"./index.a2f7216f.js";const e={};var t=function(){var n=this;return n._self._c,n._m(0)},s=[function(){var _=this,n=_._self._c;return n("div",{staticClass:"not-found"},[n("h1",[_._v("No encontramos esta direcci\xF3n")])])}],o=r(e,t,s,!1,null,"60d12834",null,null);const a=o.exports;export{a as default};
